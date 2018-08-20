@@ -1,0 +1,23 @@
+Â
+ã
+^India,.+?[0-9]{1,2}
+^INDIA,.+?[0-9]{1,2}
+^New Delhi,.+?[0-9]{1,2}
+^NEW YORK
+^New York
+^Paris
+\\(Bloomberg\\)
+^EXCLUSIVE:
+Click for image
+http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+
+([A-z]|[0-9])\S*(jpg|png|gif)
+Ahmad Zamroni / Forbes Indonesia
+May 17
+^| @entelect
+CAPITAL MARKETS
+&GT
+&lt
+^DINNER PARTY INTEL\\.\\.\\. The topics you have to be able to discuss this week
+^-based
+^TECHNOLOGY
+^COVER STORY\\. BITCOIN\\. POT OF GOLD? 

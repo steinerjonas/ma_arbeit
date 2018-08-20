@@ -1,0 +1,22 @@
+HIGHLIGHT:
+Â
+Click Here for related articles
+Click for Image
+Highlight:
+http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+
+([A-z]|[0-9])\S*(jpg|png|gif)
+[0-9]{1,2} Vol. [0-9]{1,2} No. [0-9]{1,2}
+--
+<.*>
+Edition 1
+National Edition
+Editor's pick
+VOICES
+STATES
+ldquo
+rdquo
+rsquo
+getty images
+Getty Images
+Published by HT.*contentservices@htlive.com
+

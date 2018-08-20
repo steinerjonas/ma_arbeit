@@ -1,0 +1,22 @@
+^BYLINE:.*
+^All Rights Reserved.*
+^EVENT DATE:.*
+^SPEAKER:.*
+^LANGUAGE:.*
+^JOURNAL-CODE:.*
+^!@COPYRIGHT.*
+^Tel:.*
+^Fax:.*
+^DATELINE:.*
+^Copyright.*
+^Provided by.*
+^Image Source:.*
+^Click for Image.*
+^GRAPHIC:.*
+^More Information:.*
+^Related:.*
+^All Rights Reserved.*
+^Provided by.*
+^AUTHORS:.*
+^By.*
+
